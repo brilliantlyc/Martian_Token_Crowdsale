@@ -10,7 +10,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 // * MintedCrowdsale
 contract KaseiCoinCrowdsale is Crowdsale, MintedCrowdsale { // ADD INHERITANCE TO THE CONTRACT SIGNATURE 
     
-    // Provide parameters for all of the features of your crowdsale, such as the `rate`, `wallet` for fundraising, and `token`.
+    // Provide parameters for all of the features of our crowdsale, such as the `rate`, `wallet` for fundraising, and `token`.
     constructor(
         uint rate,
         address payable wallet,

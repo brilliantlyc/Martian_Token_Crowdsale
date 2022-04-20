@@ -17,7 +17,7 @@ Once the contract is deployed, it can be opened and the kasei_crowdsale_address 
 
 ![KaseiCoinCrowdsaleDeployer_Deployed_2](Evaluation_Evidence/KaseiCoinCrowdsaleDeployer_Deployed_2.png)
 
-Next, the KaseiCoin contract should be loaded using the "Load contract from Address" option by copying and pasting the kasei_token_address and clicking the "At Address" button.
+Next, the KaseiCoin contract should be loaded by selecting the KaseiCoin contract from the "Contract" dropdown list. Then, copying and pasting the kasei_token_address into the "Load contract from Address" field, and clicking the "At Address" button.
 
 ![KaseiCoin_PreDeploying](Evaluation_Evidence/KaseiCoin_PreDeploying.png)
 
