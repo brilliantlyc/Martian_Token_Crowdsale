@@ -1,5 +1,5 @@
 # Martian Token Crowdsale
-This prototype project involves three Solidity smart contracts that would allow people moving to Mars to convert their earthling money to a proposed new cryptocurrency named KaseiCoin. The KaseCoin would be an ERC-20 compliant fungible token, and the currency conversion would be accomplished through a crowdsale.  
+This prototype project involves three Solidity smart contracts that would allow people moving to Mars to convert their earthling money to a proposed new cryptocurrency named KaseiCoin. The KaseiCoin would be an ERC-20 compliant fungible token, and the currency conversion would be accomplished through a crowdsale.  
 
 ## Technologies
 The technologies required to use this project are: Remix IDE, MetaMask, and Ganache.
@@ -25,7 +25,7 @@ This screenshot shows part of the loaded KasieCoin contract.
 
 ![KaseiCoin_Deployed](Evaluation_Evidence/KaseiCoin_Deployed.png)
 
-The KaseiCoinCrowdsale contract should be loaded similarly using the kasei_crowdsale_address as shown below.
+The KaseiCoinCrowdsale contract should be loaded similarly, by selecting the KaseiCoinCrowdsale contract from the "Contract" dropdown list, and using the kasei_crowdsale_address as shown below.
 
 ![KaseiCoinCrowdsale_PreDeploying](Evaluation_Evidence/KaseiCoinCrowdsale_PreDeploying.png)
 
